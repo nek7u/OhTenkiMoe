@@ -16,6 +16,6 @@ Documentation [OhTenkiMoe Home](https://github.com/nek7u/OhTenkiMoe/wiki)
 
 <p><br></p>
 
-⭐ The skin is no longer being updated. See new one [OhTenki Japan](https://github.com/nek7u/OhTenki-Japan/wiki).  
+⭐ The skin is no longer being updated. See new [OhTenki Japan](https://github.com/nek7u/OhTenki-Japan/wiki).  
 
 ⭐ このスキンの更新・メンテナンスは終了しました。新たに[OhTenki Japan](https://github.com/nek7u/OhTenki-Japan/wiki)を公開していますので、そちらをご利用ください。
