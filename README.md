@@ -8,6 +8,14 @@ Documentation [OhTenkiMoe Home](https://github.com/nek7u/OhTenkiMoe/wiki)
 
 [![](https://raw.githubusercontent.com/nek7u/OhTenkiMoe/main/w/images/home/preview_ohtenkimoe_thumb.png)](https://github.com/nek7u/OhTenkiMoe/wiki)  
 -->
+
+> [!IMPORTANT]
+> **We've Moved!**
+> OhTenkiMoe wiki is now a [OhTenki Japan](https://github.com/nek7u/OhTenki-Japan/wiki).  
+> [OhTenki Japan](https://github.com/nek7u/OhTenki-Japan/wiki)に変わりました
+
+<p><br></p>
+
 ⭐ The skin is no longer being updated. See new one [OhTenki Japan](https://github.com/nek7u/OhTenki-Japan/wiki).  
 
 ⭐ このスキンの更新・メンテナンスは終了しました。新たに[OhTenki Japan](https://github.com/nek7u/OhTenki-Japan/wiki)を公開していますので、そちらをご利用ください。
